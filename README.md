@@ -1,2 +1,2 @@
 # R5T.Palembang.Standard
-The standard ICommandLineArgumentsProvider implementation aggregation library for the Palembang project.
+The standard implementation aggregation library for the Palembang project.
